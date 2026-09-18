@@ -1,7 +1,7 @@
 # cmd/claw/main.py
 # 对应 Go 版: cmd/claw/main.go
 # 第 3 章：mock Provider 感知"是否持有工具"，演示慢思考(规划) + 行动的两阶段循环。
-# 运行方式（在 py-tiny-claw 目录下）: python -m cmd.claw.main
+# 运行方式 main.py
 import logging
 import os
 import sys
